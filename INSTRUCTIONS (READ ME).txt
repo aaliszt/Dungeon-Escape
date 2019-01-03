@@ -1,0 +1,15 @@
+----INSTRUCTIONS----
+ Use the W,A,S,D keys to move the player
+ Use the space bar to attack.
+ Keep the command prompt visible so that you can see your players current HP.
+(HP will be part of the UI in time)
+
+----WARNINGS----
+ Try not to get trapped against the walls by the enemies, you will lose health very
+ quickly if you get hit against a wall.
+
+----OBJECTIVE----
+ Kill all of the enemies to win or die trying.
+
+
+GOOD LUCK!

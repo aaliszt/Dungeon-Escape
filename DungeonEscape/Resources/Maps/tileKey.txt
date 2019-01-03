@@ -1,0 +1,48 @@
+0 == Fill
+1 == Floor
+2 == Stairs
+20 == Wall
+21 == Health Pot
+22 == Treasure Chest
+23 == Top of Left Corner
+24 == Right Top of Left Corner
+25 == Top of Top Normal Wall
+26 == Top of Top Thick Wall
+27 == Top of Top Face
+28 == Top Left of Right Corner
+29 == Top Right of Corner
+30 == Bottom of Right Normal Wall
+31 == Top of Right Normal Wall
+32 == Top of Left Normal Wall
+33 == Bottom of Left Normal Wall
+43 == Bottom of Top Left Corner
+44 == Bottom Right of Top Left Corner
+45 == Bottom of Top Normal Wall
+46 == Bottom of Top Thick Wall
+47 == Bottom of Top Face
+48 == Bottom Left of Top Right Corner
+49 == Bottom of Top Right Corner
+50 == Bottom of Right Thick Wall
+51 == Top of Right Thick Wall
+52 == Top of Left Thick Wall
+53 == Bottom of Left Thick Wall
+63 == Top of Bottom Left Corner
+64 == Right of Bottom Left Corner
+65 == Bottom of Bottom Normal Wall
+66 == Bottom of Bottom Thick Wall
+67 == Bottom of Bottom Face 
+68 == Left of Bottom Right Corner
+69 == Top of Bottom Right Corner
+70 == Bottom of Left Face
+71 == Top of Left Face
+72 == Top Of Right Face
+73 == Bottom of Right Face
+83 == Bottom of Bottom Right Corner
+84 == Bottom Right of Bottom Left Corner
+85 == Top of Bottom Normal Wall
+86 == Top of Bottom Thick Wall
+87 == Top of Bottom Face
+88 == Bottom Left of Bottom Right Corner
+89 == Bottom of Bottom Right Corner 
+
+
